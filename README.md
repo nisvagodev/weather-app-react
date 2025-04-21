@@ -1,5 +1,7 @@
 # Aplicación del Clima con React (Arquitectura Modular)
 
+Link para ver resultado: [APLICACION DE CLIMA RESULTADO FINAL](clima-2app-react.netlify.app)
+
 Aplicación meteorológica que muestra información del tiempo para cualquier ciudad usando la API de OpenWeatherMap, implementada con React usando una arquitectura modular que separa lógica, componentes y helpers.
 
 ## Características principales
