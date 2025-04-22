@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  background-color: #63d3ff;
+  background-color: #fcd036;
 }
 
 .container {
@@ -14,8 +14,11 @@ body {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 48px;
   margin-bottom: 20px;
+  background: linear-gradient(360deg, #14c9f4, #015b93);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 form {
